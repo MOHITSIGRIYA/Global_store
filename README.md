@@ -23,8 +23,9 @@ Dealing with large datasets can be difficult if not approached properly. Recentl
 Other useful insights can be seen in the dashboard.
 
 
-**➡ Tech stack used - Power BI,PowerPoint
-➡ Functions used - Power Query(ETL tool), DAX, Relational modelling**
+**➡ Tech stack used - Power BI,PowerPoint**
+
+➡ **Functions used - Power Query(ETL tool), DAX, Relational modelling**
 
 
 I explored the designing part of Power BI in this project which is quite awesome, with tools like effects, background images, shadows, color filling, and fillet.
